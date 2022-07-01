@@ -1,0 +1,1 @@
+[{"type": "readers.ept", "filename": "https://s3-us-west-2.amazonaws.com/usgs-lidar-public/AZ_Coconino_B1_2019/ept.json", "bounds": "([-12409659.723118749,-12401014.651463743],[4210651.769188692,4218212.139389493])"}, {"type": "writers.las", "filename": "download.las"}]
